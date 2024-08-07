@@ -1,6 +1,6 @@
 
 #define CATCH_CONFIG_MAIN // O Catch fornece uma main()
-#include "catch.hpp"
+#include "catch_amalgamated.hpp"
 
 #include <iostream>
 #include <fstream>
